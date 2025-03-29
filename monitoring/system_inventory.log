@@ -1,0 +1,25 @@
+System Inventory Report
+-----------------------
+CPU Info:
+Model name:                           Intel(R) Core(TM) i7-7660U CPU @ 2.50GHz
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           4.3Gi       961Mi       3.1Gi       3.6Mi       546Mi       3.4Gi
+Swap:          1.0Gi          0B       1.0Gi
+Disk Usage:
+Filesystem     Type      Size  Used Avail Use% Mounted on
+udev           devtmpfs  2.2G     0  2.2G   0% /dev
+tmpfs          tmpfs     443M 1008K  442M   1% /run
+/dev/sda1      ext4       79G   28G   47G  38% /
+tmpfs          tmpfs     2.2G  4.0K  2.2G   1% /dev/shm
+tmpfs          tmpfs     5.0M     0  5.0M   0% /run/lock
+tmpfs          tmpfs     1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs          tmpfs     1.0M     0  1.0M   0% /run/credentials/systemd-udev-load-credentials.service
+tmpfs          tmpfs     1.0M     0  1.0M   0% /run/credentials/systemd-sysctl.service
+tmpfs          tmpfs     1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup-dev-early.service
+tmpfs          tmpfs     1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup-dev.service
+tmpfs          tmpfs     2.2G   76K  2.2G   1% /tmp
+tmpfs          tmpfs     1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup.service
+docker         vboxsf    477G  159G  318G  34% /media/sf_docker
+tmpfs          tmpfs     1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs          tmpfs     443M  120K  443M   1% /run/user/1000

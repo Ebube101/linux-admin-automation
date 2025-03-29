@@ -1,0 +1,17 @@
+tar: Removing leading `/' from member names
+/etc/
+tar (child): /var/backups/backup_2025-03-29.tar.gz: Cannot open: Permission denied
+tar (child): Error is not recoverable: exiting now
+/etc/kernel/
+/etc/kernel/preinst.d/
+/etc/kernel/preinst.d/intel-microcode
+tar: Removing leading `/' from hard link targets
+/etc/kernel/postrm.d/
+/etc/kernel/postrm.d/initramfs-tools
+/etc/kernel/postrm.d/zz-update-grub
+/etc/kernel/postinst.d/
+/etc/kernel/postinst.d/initramfs-tools
+/etc/kernel/postinst.d/zz-update-grub
+tar: /var/backups/backup_2025-03-29.tar.gz: Cannot write: Broken pipe
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now

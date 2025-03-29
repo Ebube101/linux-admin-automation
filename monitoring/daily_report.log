@@ -1,0 +1,15 @@
+./scripts/daily_report.sh: line 8: /var/log/daily_report.log: Permission denied
+./scripts/daily_report.sh: line 9: /var/log/daily_report.log: Permission denied
+./scripts/daily_report.sh: line 10: /var/log/daily_report.log: Permission denied
+./scripts/daily_report.sh: line 13: /var/log/daily_report.log: Permission denied
+./scripts/daily_report.sh: line 14: /var/log/daily_report.log: Permission denied
+./scripts/daily_report.sh: line 17: /var/log/daily_report.log: Permission denied
+./scripts/daily_report.sh: line 18: /var/log/daily_report.log: Permission denied
+./scripts/daily_report.sh: line 21: /var/log/daily_report.log: Permission denied
+./scripts/daily_report.sh: line 22: /var/log/daily_report.log: Permission denied
+./scripts/daily_report.sh: line 25: /var/log/daily_report.log: Permission denied
+./scripts/daily_report.sh: line 26: /var/log/daily_report.log: Permission denied
+./scripts/daily_report.sh: line 29: /var/log/daily_report.log: Permission denied
+./scripts/daily_report.sh: line 30: /var/log/daily_report.log: Permission denied
+./scripts/daily_report.sh: line 32: /var/log/daily_report.log: Permission denied
+Report saved to /var/log/daily_report.log
